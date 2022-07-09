@@ -4,7 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+As the cryptographic community is preparing for a shift towards quantum-safe cryptography, to protect against future quantum attacks, many questions still need to be addressed: How can we design efficient "post-quantum" cryptography? How secure are these cryptographic schemes, theoretically and practically? And how should we ultimately choose parameters for these protocols, to balance performance and security?
+
+My research focuses on lattice-based cryptography, the leading candidate for post-quantum cryptography, with an emphasis on understanding the true hardness of the underlying hard lattice problems. By improving state-of-the-art algorithms for solving these lattice problems, my research has directly impacted security estimates and parameter selection methods for lattice-based cryptography. Our study of the limitations of these algorithms has further inspired confidence in the security of these schemes when parameters are chosen accurately.
+
+My research on lattice-based cryptography started during my doctoral studies at the Eindhoven University of Technology (2011-2016). After completing my PhD I continued this line of research at IBM Research in Switzerland (2016-2017), after which I returned to the Eindhoven University of Technology (2017-present). During Spring 2020 I was an invited visiting researcher at the UC Berkeley. My current position in Eindhoven is funded through a personal Veni Innovational Research Grant (EUR 250K) from the Dutch Research Council (NWO) for excellent young researchers. 
+
+## Experience
+
+- **Dec 2021-**: Research Scientist -- TNO -- The Hague, The Netherlands
+- **Nov 2017-Nov 2021**: Postdoctoral Researcher -- Eindhoven University of Technology -- Eindhoven, The Netherlands
+
+## Education
+
+- **Oct 2011-Feb 2016**: PhD in Cryptography -- Eindhoven University of Technology -- Eindhoven, The Netherlands
+- **Sep 2009-Sep 2011**: MSc in Applied Mathematics (cum laude) -- Eindhoven University of Technology -- Eindhoven, The Netherlands
 
 ## Research Interests
 
