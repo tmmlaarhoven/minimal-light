@@ -35,26 +35,26 @@ My research on lattice-based cryptography started during my doctoral studies at 
 ## Publications
 
 - **Lower bounds for nearest neighbor searching and post-quantum cryptanalysis**<br/>
-  *Elena Kirshanova, Thijs Laarhoven*<br />
-  **Crypto 2021**
+  Elena Kirshanova, Thijs Laarhoven<br />
+  *Crypto 2021*
 
 - **Dual lattice attacks for closest vector problems (with preprocessing)**<br/>
-  *Thijs Laarhoven, Michael Walter*<br />
-  **CT-RSA 2021**
+  Thijs Laarhoven, Michael Walter<br />
+  *CT-RSA 2021*
 
 - **Polytopes, lattices, and spherical codes for the nearest neighbor problem**<br/>
-  *Thijs Laarhoven*<br />
-  **ICALP 2020**<br/>
+  Thijs Laarhoven<br />
+  *ICALP 2020*<br/>
   [[pdf](https://arxiv.org/pdf/1907.04628)] [[url](https://arxiv.org/abs/1907.04628)]
 
-- Sieve, enumerate, slice, and lift: Hybrid lattice algorithms for SVP via CVPP<br/>
-  *Emmanouil Doulgerakis, Thijs Laarhoven, Benne de Weger*<br />
-  **AfricaCrypt 2020**<br/>
+- **Sieve, enumerate, slice, and lift: Hybrid lattice algorithms for SVP via CVPP**<br/>
+  Emmanouil Doulgerakis, Thijs Laarhoven, Benne de Weger<br />
+  *AfricaCrypt 2020*<br/>
   [[pdf](https://eprint.iacr.org/2020/487.pdf)] [[url](https://eprint.iacr.org/2020/487)]
 
-- The randomized slicer for CVPP: sharper, faster, smaller, batchier<br/>
-  *L&#233;o Ducas, Thijs Laarhoven, Wessel van Woerden*<br />
-  **PKC 2020**<br/>
+- **The randomized slicer for CVPP: sharper, faster, smaller, batchier**<br/>
+  L&#233;o Ducas, Thijs Laarhoven, Wessel van Woerden<br />
+  *PKC 2020*<br/>
   [[pdf](https://eprint.iacr.org/2020/120.pdf)] [[url](https://eprint.iacr.org/2020/120)]
 
 - Evolutionary techniques in lattice sieving algorithms<br/>
