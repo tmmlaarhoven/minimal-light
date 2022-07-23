@@ -57,30 +57,20 @@ My research on lattice-based cryptography started during my doctoral studies at 
   *PKC 2020*<br/>
   [[pdf](https://eprint.iacr.org/2020/120.pdf)] [[url](https://eprint.iacr.org/2020/120)]
 
-- Evolutionary techniques in lattice sieving algorithms<br/>
-  *Thijs Laarhoven*<br />
-  **ECTA 2019** &mdash; **Best Paper Award**<br/>
+- **Evolutionary techniques in lattice sieving algorithms**<br/>
+  Thijs Laarhoven<br />
+  *ECTA 2019* &mdash; **Best Paper Award**<br/>
   [[pdf](https://arxiv.org/pdf/1907.04629)] [[url](https://arxiv.org/abs/1907.04629)]
 
-  <li class="conf"><b>Approximate Voronoi cells for lattices, revisited</b>
-  <div style="float: right">
-    <a href="docs/slides-mathcrypt.pdf"><img src="images/pres32.png" alt="slides" title="slides @ thijs.com" /></a>
-    <a href="https://arxiv.org/pdf/1907.04630"><img src="images/pdf32.png" alt="pdf" title="PDF @ arXiv" /></a>
-    <a href="https://arxiv.org/abs/1907.04630"><img src="images/external32.png" alt="link" title="arXiv" /></a>
-    <img src="images/empty32.png" />
-  </div><br />
-  <i>Thijs Laarhoven</i><br />
-  <div style="font-weight: 600; display:inline;">MathCrypt 2019</div></li>
+- **Approximate Voronoi cells for lattices, revisited**<br/>
+  Thijs Laarhoven<br />
+  *MathCrypt 2019*<br/>
+  [[pdf](https://arxiv.org/pdf/1907.04630)] [[url](https://arxiv.org/abs/1907.04630)] [[slides](docs/slides-mathcrypt.pdf)]
 
-  <li class="conf"><b>Nearest neighbor decoding for Tardos fingerprinting codes</b>
-  <div style="float: right">
-    <a href="docs/slides-ihmmsec19.pdf"><img src="images/pres32.png" alt="slides" title="slides @ thijs.com" /></a>
-    <a href="https://arxiv.org/pdf/1902.06196"><img src="images/pdf32.png" alt="pdf" title="PDF @ arXiv" /></a>
-    <a href="https://arxiv.org/abs/1902.06196"><img src="images/external32.png" alt="link" title="arXiv" /></a>
-    <img src="images/empty32.png" />
-  </div><br />
-  <i>Thijs Laarhoven</i><br />
-  <div style="font-weight: 600; display:inline;">IH&MMSec 2019</div></li>
+- **Nearest neighbor decoding for Tardos fingerprinting codes**<br/>
+  Thijs Laarhoven<br />
+  *IH&MMSec 2019*<br/>
+  [[pdf](https://arxiv.org/pdf/1902.06196)] [[url](https://arxiv.org/abs/1902.06196)] [[slides](docs/slides-ihmmsec19.pdf)]
 
   <li class="conf"><b>Round5: Compact and fast post-quantum public-key encryption</b>
   <div style="float: right">
