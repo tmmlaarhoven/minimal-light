@@ -33,7 +33,7 @@ Below is a list of all publications, with links to the corresponding papers, to 
 
 - **Evolutionary techniques in lattice sieving algorithms**<br/>
   Thijs Laarhoven<br />
-  *ECTA 2019* &mdash; <span style="color:red">**Best Paper Award**</span><br/>
+  *ECTA 2019* &mdash; **<span style="color:red">Best Paper Award</span>**<br/>
   [[pdf](https://arxiv.org/pdf/1907.04629)] [[url](https://arxiv.org/abs/1907.04629)]
 
 - **Approximate Voronoi cells for lattices, revisited**<br/>
