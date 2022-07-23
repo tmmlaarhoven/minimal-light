@@ -44,19 +44,23 @@ My research on lattice-based cryptography started during my doctoral studies at 
 
 - **Polytopes, lattices, and spherical codes for the nearest neighbor problem**<br/>
   *Thijs Laarhoven*<br />
-  **ICALP 2020** [[pdf](https://arxiv.org/pdf/1907.04628)] [[url](https://arxiv.org/abs/1907.04628)]
+  **ICALP 2020**<br/>
+  [[pdf](https://arxiv.org/pdf/1907.04628)] [[url](https://arxiv.org/abs/1907.04628)]
 
-- **Sieve, enumerate, slice, and lift: Hybrid lattice algorithms for SVP via CVPP**<br/>
+- Sieve, enumerate, slice, and lift: Hybrid lattice algorithms for SVP via CVPP<br/>
   *Emmanouil Doulgerakis, Thijs Laarhoven, Benne de Weger*<br />
-  **AfricaCrypt 2020** [[pdf](https://eprint.iacr.org/2020/487.pdf)] [[url](https://eprint.iacr.org/2020/487)]
+  **AfricaCrypt 2020**<br/>
+  [[pdf](https://eprint.iacr.org/2020/487.pdf)] [[url](https://eprint.iacr.org/2020/487)]
 
-- **The randomized slicer for CVPP: sharper, faster, smaller, batchier**<br/>
+- The randomized slicer for CVPP: sharper, faster, smaller, batchier<br/>
   *L&#233;o Ducas, Thijs Laarhoven, Wessel van Woerden*<br />
-  **PKC 2020** [[pdf](https://eprint.iacr.org/2020/120.pdf)] [[url](https://eprint.iacr.org/2020/120)]
+  **PKC 2020**<br/>
+  [[pdf](https://eprint.iacr.org/2020/120.pdf)] [[url](https://eprint.iacr.org/2020/120)]
 
-- **Evolutionary techniques in lattice sieving algorithms**<br/>
+- Evolutionary techniques in lattice sieving algorithms<br/>
   *Thijs Laarhoven*<br />
-  **ECTA 2019** &mdash; **Best Paper Award** [[pdf](https://arxiv.org/pdf/1907.04629)] [[url](https://arxiv.org/abs/1907.04629)]
+  **ECTA 2019** &mdash; **Best Paper Award**<br/>
+  [[pdf](https://arxiv.org/pdf/1907.04629)] [[url](https://arxiv.org/abs/1907.04629)]
 
   <li class="conf"><b>Approximate Voronoi cells for lattices, revisited</b>
   <div style="float: right">
