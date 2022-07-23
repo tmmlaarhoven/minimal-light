@@ -2,50 +2,24 @@
 layout: homepage
 ---
 
-## About Me
-
-As the cryptographic community is preparing for a shift towards quantum-safe cryptography, to protect against future quantum attacks, many questions still need to be addressed: How can we design efficient "post-quantum" cryptography? How secure are these cryptographic schemes, theoretically and practically? And how should we ultimately choose parameters for these protocols, to balance performance and security?
-
-My research focuses on lattice-based cryptography, the leading candidate for post-quantum cryptography, with an emphasis on understanding the true hardness of the underlying hard lattice problems. By improving state-of-the-art algorithms for solving these lattice problems, my research has directly impacted security estimates and parameter selection methods for lattice-based cryptography. Our study of the limitations of these algorithms has further inspired confidence in the security of these schemes when parameters are chosen accurately.
-
-My research on lattice-based cryptography started during my doctoral studies at the Eindhoven University of Technology (2011-2016). After completing my PhD I continued this line of research at IBM Research in Switzerland (2016-2017), after which I returned to the Eindhoven University of Technology (2017-present). During Spring 2020 I was an invited visiting researcher at the UC Berkeley. My current position in Eindhoven is funded through a personal Veni Innovational Research Grant (EUR 250K) from the Dutch Research Council (NWO) for excellent young researchers.
-
-## Experience
-
-- **Dec 2021-**: Research Scientist -- TNO -- The Hague, The Netherlands
-- **Nov 2017-Nov 2021**: Postdoctoral Researcher -- Eindhoven University of Technology -- Eindhoven, The Netherlands
-
-## Education
-
-- **Oct 2011-Feb 2016**: PhD in Cryptography -- Eindhoven University of Technology -- Eindhoven, The Netherlands
-- **Sep 2009-Sep 2011**: MSc in Applied Mathematics (cum laude) -- Eindhoven University of Technology -- Eindhoven, The Netherlands
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
 ## Publications
+
+Below is a list of all publications, with links to the corresponding papers, to the (official) URLs of these papers, and associated code and slides if available.
 
 - **Lower bounds for nearest neighbor searching and post-quantum cryptanalysis**<br/>
   Elena Kirshanova, Thijs Laarhoven<br />
-  *Crypto 2021*
+  *Crypto 2021*<br/>
+  [[pdf](https://eprint.iacr.org/2021/785.pdf)] [[url](https://eprint.iacr.org/2021/785)] [[slides]()] [[video](https://www.youtube.com/watch?v=4_acMuQ38X4)]
 
 - **Dual lattice attacks for closest vector problems (with preprocessing)**<br/>
   Thijs Laarhoven, Michael Walter<br />
-  *CT-RSA 2021*
+  *CT-RSA 2021*<br/>
+  [[pdf]()] [[url]()] [[slides]()] [[video]()]
 
 - **Polytopes, lattices, and spherical codes for the nearest neighbor problem**<br/>
   Thijs Laarhoven<br />
   *ICALP 2020*<br/>
-  [[pdf](https://arxiv.org/pdf/1907.04628)] [[url](https://arxiv.org/abs/1907.04628)]
+  [[pdf](https://arxiv.org/pdf/1907.04628)] [[url](https://arxiv.org/abs/1907.04628)] [[slides]()] [[video](https://www.youtube.com/watch?v=O5yHvlvwBK0)]
 
 - **Sieve, enumerate, slice, and lift: Hybrid lattice algorithms for SVP via CVPP**<br/>
   Emmanouil Doulgerakis, Thijs Laarhoven, Benne de Weger<br />
@@ -59,7 +33,7 @@ My research on lattice-based cryptography started during my doctoral studies at 
 
 - **Evolutionary techniques in lattice sieving algorithms**<br/>
   Thijs Laarhoven<br />
-  *ECTA 2019* &mdash; **Best Paper Award**<br/>
+  *ECTA 2019* &mdash; <span style="color:red">**Best Paper Award**</span><br/>
   [[pdf](https://arxiv.org/pdf/1907.04629)] [[url](https://arxiv.org/abs/1907.04629)]
 
 - **Approximate Voronoi cells for lattices, revisited**<br/>
@@ -72,56 +46,30 @@ My research on lattice-based cryptography started during my doctoral studies at 
   *IH&MMSec 2019*<br/>
   [[pdf](https://arxiv.org/pdf/1902.06196)] [[url](https://arxiv.org/abs/1902.06196)] [[slides](docs/slides-ihmmsec19.pdf)]
 
-  <li class="conf"><b>Round5: Compact and fast post-quantum public-key encryption</b>
-  <div style="float: right">
-    <img src="images/empty32.png" />
-    <a href="https://eprint.iacr.org/2018/725.pdf"><img src="images/pdf32.png" alt="pdf" title="PDF @ Cryptology ePrint Archive" /></a>
-    <a href="https://eprint.iacr.org/2018/725"><img src="images/external32.png" alt="link" title="Cryptology ePrint Archive" /></a>
-    <img src="images/empty32.png" />				
-  </div><br />
-  <i>Hayo Baan, Sauvik Bhattacharya, Scott Fluhrer, &Oacute;scar Garc&iacute;a-Morch&oacute;n, Thijs Laarhoven, Ronald Rietman, <br/>Markku-Juhani Saarinen, Ludo Tolhuizen, Zhenfei Zhang</i><br />
-  <div style="font-weight: 600; display:inline;">PQCrypto 2019</div></li>
+- **Round5: Compact and fast post-quantum public-key encryption**</br>
+  Hayo Baan, Sauvik Bhattacharya, Scott Fluhrer, &Oacute;scar Garc&iacute;a-Morch&oacute;n, Thijs Laarhoven, Ronald Rietman, <br/>Markku-Juhani Saarinen, Ludo Tolhuizen, Zhenfei Zhang<br />
+  *PQCrypto 2019*<br/>
+  [[pdf](https://eprint.iacr.org/2018/725.pdf)] [[url](https://eprint.iacr.org/2018/725)]
 
-  <li class="conf"><b>Finding closest lattice vectors using approximate Voronoi cells</b>
-  <div style="float: right">
-    <img src="images/empty32.png" />
-    <a href="https://eprint.iacr.org/2016/888.pdf"><img src="images/pdf32.png" alt="pdf" title="PDF @ Cryptology ePrint Archive" /></a>
-    <a href="https://eprint.iacr.org/2016/888"><img src="images/external32.png" alt="link" title="Cryptology ePrint Archive" /></a>
-    <img src="images/empty32.png" />				
-  </div><br />
-  <i>Emmanouil Doulgerakis, Thijs Laarhoven, Benne de Weger</i><br />
-  <div style="font-weight: 600; display:inline;">PQCrypto 2019</div></li>
+- **Finding closest lattice vectors using approximate Voronoi cells**<br/>
+  Emmanouil Doulgerakis, Thijs Laarhoven, Benne de Weger<br />
+  *PQCrypto 2019*<br/>
+  [[pdf](https://eprint.iacr.org/2016/888.pdf)] [[url](https://eprint.iacr.org/2016/888)]
 
-  <li class="conf"><b>Graph-based time-space trade-offs for approximate near neighbors</b>
-  <div style="float: right">
-    <a href="docs/socg18-slides.pdf"><img src="images/pres32.png" alt="slides" title="slides @ thijs.com" /></a>
-    <a href="https://arxiv.org/pdf/1712.03158"><img src="images/pdf32.png" alt="pdf" title="PDF @ arXiv" /></a>
-    <a href="https://arxiv.org/abs/1712.03158"><img src="images/external32.png" alt="link" title="arXiv" /></a>
-    <img src="images/empty32.png" />				
-  </div><br />
-  <i>Thijs Laarhoven</i><br />
-  <div style="font-weight: 600; display:inline;">SOCG 2018</div></li>
+- **Graph-based time-space trade-offs for approximate near neighbors**<br/>
+  Thijs Laarhoven<br />
+  **SOCG 2018**<br/>
+  [[pdf](https://arxiv.org/pdf/1712.03158)] [[url](https://arxiv.org/abs/1712.03158)] [[slides](docs/socg18-slides.pdf)]
 
-  <li class="conf"><b>Progressive lattice sieving</b>
-  <div style="float: right">
-    <a href="docs/pqc18-slides.pdf"><img src="images/pres32.png" alt="slides" title="slides @ thijs.com" /></a>
-    <a href="https://eprint.iacr.org/2018/079.pdf"><img src="images/pdf32.png" alt="pdf" title="PDF @ Cryptology ePrint Archive" /></a>
-    <a href="https://eprint.iacr.org/2018/079"><img src="images/external32.png" alt="link" title="Cryptology ePrint Archive" /></a>
-    <img src="images/empty32.png" />				
-  </div><br />
-  <i>Thijs Laarhoven, Artur Mariano</i><br />
-  <div style="font-weight: 600; display:inline;">PQCrypto 2018</div></li>
+- **Progressive lattice sieving**<br/>
+  Thijs Laarhoven, Artur Mariano<br />
+  *PQCrypto 2018*<br/>
+  [[pdf](https://eprint.iacr.org/2018/079.pdf)] [[url](https://eprint.iacr.org/2018/079)] [[slides](docs/pqc18-slides.pdf)]
 
-  <li class="conf"><b>Speed-ups and time-memory trade-offs for tuple lattice sieving</b>
-  <div style="float: right">
-    <img src="images/empty32.png" />
-    <a href="https://eprint.iacr.org/2017/1228.pdf"><img src="images/pdf32.png" alt="pdf" title="PDF @ Cryptology ePrint Archive" /></a>
-    <a href="https://eprint.iacr.org/2017/1228"><img src="images/external32.png" alt="link" title="Cryptology ePrint Archive" /></a>
-    <img src="images/empty32.png" />				
-  </div><br />
-  <i>Gottfried Herold, Elena Kirshanova, Thijs Laarhoven</i><br />
-  <div style="font-weight: 600; display:inline;">PKC 2018</div><br/>
-  This paper subsumes results from a previous (unpublished) preprint available <a href="https://arxiv.org/abs/1705.02828">here</a>. </li>
+- **Speed-ups and time-memory trade-offs for tuple lattice sieving**<br/>
+  Gottfried Herold, Elena Kirshanova, Thijs Laarhoven<br />
+  *PKC 2018*<br/>
+  [[pdf](https://eprint.iacr.org/2017/1228.pdf)] [[url](https://eprint.iacr.org/2017/1228)] [[old-version](https://arxiv.org/abs/1705.02828)]
 
     <!--<li class="pre" style="margin-left: 50px;"><b>Faster tuple lattice sieving using spherical locality-sensitive filters</b>
     <div style="float: right">
@@ -133,15 +81,10 @@ My research on lattice-based cryptography started during my doctoral studies at 
     <i>Thijs Laarhoven</i><br />
     Preprint, April 2017</li>-->
 
-  <li class="conf"><b>Hypercube LSH for approximate near neighbors</b>
-  <div style="float: right">
-    <a href="docs/slides-mfcs17.pdf"><img src="images/pres32.png" alt="slides" title="slides @ thijs.com" /></a>
-    <a href="https://arxiv.org/pdf/1702.05760"><img src="images/pdf32.png" alt="pdf" title="PDF @ arXiv" /></a>
-    <a href="https://arxiv.org/abs/1702.05760"><img src="images/external32.png" alt="link" title="arXiv" /></a>
-    <img src="images/empty32.png" />				
-  </div><br />
-  <i>Thijs Laarhoven</i><br />
-  <div style="font-weight: 600; display:inline;">MFCS 2017</div></li>
+- **Hypercube LSH for approximate near neighbors**<br/>
+  Thijs Laarhoven<br />
+  *MFCS 2017*<br/>
+  [[pdf](https://arxiv.org/pdf/1702.05760)] [[url](https://arxiv.org/abs/1702.05760)] [[slides](docs/slides-mfcs17.pdf)]
 
   <li class="conf"><b>A parallel variant of LDSieve for the SVP on lattices</b>
   <div style="float: right">
