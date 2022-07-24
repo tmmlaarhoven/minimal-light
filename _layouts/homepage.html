@@ -26,13 +26,13 @@
   <body>
     <div class="wrapper">
       <header>
-        
+
         {% if site.avatar %}
         <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1> 
-        
+        <h1 class="name">{{ site.title }}</h1> 
+
         {% if site.position %}
         {{ site.position }}
         <br>
@@ -68,7 +68,7 @@
             <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
           </a>
           {% endif %}
-          {% if site.github_link %}            
+          {% if site.github_link %}
           <a href="{{ site.github_link }}" target="_blank">
             <i class="fab fa-github"></i>
           </a>
